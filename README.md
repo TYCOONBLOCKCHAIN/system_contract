@@ -1,2 +1,2 @@
-# system_contract
-system contracts of tycoon chain
+# System-Contracts
+This repository hosts system smart contracts of the Decentraconnect
